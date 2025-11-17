@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Pilot",
+  "description": "An intelligent code editor that uses AI to index your codebase, detect issues, and automatically suggest and apply fixes. Chat with your code to understand it better and accelerate your development workflow.",
+  "requestFramePermissions": []
+}
